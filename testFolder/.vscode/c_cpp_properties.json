@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Zephyr",
+            "includePath": [],
+            "compilerPath": "c:\\D\\DevBins\\gnuarmemb\\bin\\arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "compileCommands": "C:\\D\\Sources\\Zephyr.west\\vscodeDebug\\simple_compile_db.json"
+        }
+    ],
+    "version": 4
+}

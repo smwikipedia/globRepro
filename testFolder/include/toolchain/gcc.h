@@ -1,0 +1,1 @@
+#define __printf_like(f, a)   __attribute__((format (printf, f, a)))

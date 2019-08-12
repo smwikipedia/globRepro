@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "printk.h": "c"
+    },
+    "files.exclude": {
+        "**/.*": true
+    }
+}
